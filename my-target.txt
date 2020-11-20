@@ -1,0 +1,5 @@
+My Target:
+- Javascript
+- Node.js
+- Discord.js
+- Website
