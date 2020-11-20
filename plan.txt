@@ -1,0 +1,4 @@
+My Plan:
+- Complete advanced javascript
+- Complete reading until node.js
+- Go to low-level programming
