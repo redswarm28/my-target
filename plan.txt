@@ -1,8 +1,10 @@
 My Plan:
 - Complete advanced javascript
     * More videos on youtube
+    * Learn another lesson from website
 - Complete reading until node.js
     * Until chapter 10: Modules
     * Download the missing chapter
 - Go to low-level programming
 - Rest API
+- Learn Python
