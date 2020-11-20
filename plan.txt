@@ -3,5 +3,6 @@ My Plan:
     * More videos on youtube
 - Complete reading until node.js
     * Until chapter 10: Modules
+    * Download the missing chapter
 - Go to low-level programming
 - Rest API
