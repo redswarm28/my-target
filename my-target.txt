@@ -3,3 +3,5 @@ My Target:
 - Node.js
 - Discord.js
 - Website
+- Other language
+- Beautify my desktop
