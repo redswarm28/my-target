@@ -1,0 +1,5 @@
+Halo, salam kenal, saya el-fenix dari Indonesia
+
+Target saya:
+- Membuat website dengan html css dan js
+- Membuat bot discord sendiri
